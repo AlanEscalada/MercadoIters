@@ -1,0 +1,9 @@
+.card-img-top{
+  height: 300px;
+  object-fit: contain;
+}
+
+.card:hover{
+  border: 1px solid rgb(39, 184, 220);
+  cursor:pointer;
+}
